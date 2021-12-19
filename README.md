@@ -1,6 +1,6 @@
 _Course and contact information_:
 
-| ![](/Users/slg/gits/GWU_2022-01_DATS_6450_12/gwu_letterhead.png) | DATS 6450 Ethics for Data Science   <br />GELM B04 • Tue 3:30 PM – 6:00 PM<br /> Jan 11 — April 19, 2022 |
+| ![](gwu_letterhead.png) | DATS 6450 Ethics for Data Science   <br />GELM B04 • Tue 3:30 PM – 6:00 PM<br /> Jan 11 — April 19, 2022 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 | _Instructor:_ |	[Simson L. Garfinkel](3)    |
