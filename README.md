@@ -55,24 +55,26 @@ Students should budget at least 30 minutes for participation on the blackboard w
 
 
 
+
+
 # Calendar
 
 |Date|Agenda|
 |-------|-----------|
-|Jan 11 |Intro 1: Course introduction|
-|Jan 18 |Intro 2: Wikipedia, Truth, NPOV and Referencing<br>Readings: Lanier, Digital Maoism; Garfinkel, Wikipedia and the Meaning of Truth |
-|Jan 25 |Intro 3: Computer-Related Disasters<br>Readings: Dalcher, “Disaster in London: The LAS case study”; Barry, "Elon Musk, Self-Driving, and the Dangers of Wishful Thinking."     |
-|Feb  1 |Intro 4: The Gender Data Gap<br>Readings: Perez, "Invisible Women"<br>Assignment: W2 Data Failure Memo Due|
-|Feb  8 |Surveillance 1: Wiretapping, Encryption, and the Crypto Wars<br>Readings: Rotenberg 1993, Keys Under Doormats |
-|Feb 15 |Surveillance 2: Data and Transactional Surveillance<br>Readings: |
-|Feb 22 |Surveillance 3: Physical Surveillance and Face Recognition<br>Readings:  |
-|Mar  1 |Privacy 1: Fair Information Practice<br>Readings: |
-|Mar  8 |Privacy 2: Bias and Machine Learning<br>Readings: <br>Assignment D1 Building a Biased Machine Learning System due|
-|Mar 15 |SPRING BREAK! |
-|Mar 22 |Privacy 3: De-Identification and Differential Privacy<br>Readings: <br>Assignment D2 Differential Privacy Due |
-|Apr  5 |Privacy 4: Human Experimentation<br>Readings:|
-|Apr 12 |Privacy 5: Biometrics |
-|Apr 19 |Presentation of Wikipedia Projects |
+|Jan 11 |**Intro 1: Course introduction**|
+|Jan 18 |**Intro 2: Wikipedia, Truth, NPOV and Referencing**<br>Readings: Lanier, Digital Maoism; [Garfinkel](#garfinkel2008), Wikipedia and the Meaning of Truth |
+|Jan 25 |**Intro 3: Computer-Related Disasters**<br>Readings: Dalcher, “Disaster in London: The LAS case study”; Barry, "Elon Musk, Self-Driving, and the Dangers of Wishful Thinking."     |
+|Feb  1 |**Intro 4: The Gender Data Gap**<br>Readings: Perez, "Invisible Women"<br>Assignment: W2 Data Failure Memo Due|
+|Feb  8 |**Surveillance 1: Wiretapping, Encryption, and the Crypto Wars**<br>Readings: Rotenberg 1993, Keys Under Doormats |
+|Feb 15 |**Surveillance 2: Data and Transactional Surveillance**<br>Readings: |
+|Feb 22 |**Surveillance 3: Physical Surveillance and Face Recognition**<br>Readings:  |
+|Mar  1 |**Privacy 1: Fair Information Practice**<br>Readings: |
+|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: <br>Assignment D1 Building a Biased Machine Learning System due|
+|Mar 15 |*SPRING BREAK! 🌾🌱🌷* |
+|Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings: <br>Assignment D2 Differential Privacy Due |
+|Apr  5 |**Privacy 4: Human Experimentation**<br>Readings:|
+|Apr 12 |**Privacy 5: Biometrics** |
+|Apr 19 |**Presentation of Wikipedia Projects** |
 
 
 # Assignments and Grading
@@ -109,7 +111,16 @@ No extension is offered on the Wikipedia assignment.
 
 
 
+## Readings
+
+| Author                                          | Title                                                        | Year |
+| ----------------------------------------------- | ------------------------------------------------------------ | ---- |
+| <a name='garfinkel2008'>Garfinkel, Simson  </a> | Wikipedia and the Meaning of Truth  https://www.technologyreview.com/s/411041/wikipedia-and-the-meaning-of-truth/ | 2008 |
+
+
+
 # University policies
+
 ## University policy on observance of religious holidays
 In accordance with University policy, students should notify faculty during the first week of the semester of their intention to be absent from class on their day(s) of religious observance. 
 For details and policy, see: https://provost.gwu.edu/policies-procedures-and-guidelines/
