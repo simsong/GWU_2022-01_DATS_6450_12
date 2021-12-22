@@ -51,30 +51,24 @@ Two hours and thirty minutes are allocated for class discussion once a week, alt
 
 Students should budget at least 30 minutes for participation on the blackboard website during the week and not less than **six hours each week** to complete the readings and assignments.
 
-### Required textbooks and/or other materials and recommended readings
-
-
-
-
-
 # Calendar
 
 |Date|Agenda|
 |-------|-----------|
-|Jan 11 |**Intro 1: Course introduction**|
-|Jan 18 |**Intro 2: Wikipedia, Truth, NPOV and Referencing**<br>Readings: Lanier, Digital Maoism; [Garfinkel](#garfinkel2008), Wikipedia and the Meaning of Truth |
-|Jan 25 |**Intro 3: Computer-Related Disasters**<br>Readings: Dalcher, “Disaster in London: The LAS case study”; Barry, "Elon Musk, Self-Driving, and the Dangers of Wishful Thinking."     |
-|Feb  1 |**Intro 4: The Gender Data Gap**<br>Readings: Perez, "Invisible Women"<br>Assignment: W2 Data Failure Memo Due|
-|Feb  8 |**Surveillance 1: Wiretapping, Encryption, and the Crypto Wars**<br>Readings: Rotenberg 1993, Keys Under Doormats |
-|Feb 15 |**Surveillance 2: Data and Transactional Surveillance**<br>Readings: |
-|Feb 22 |**Surveillance 3: Physical Surveillance and Face Recognition**<br>Readings:  |
-|Mar  1 |**Privacy 1: Fair Information Practice**<br>Readings: |
-|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: <br>Assignment D1 Building a Biased Machine Learning System due|
+|Jan 11 |**Intro 1: Course introduction**<br />Assignment **W1** Released!|
+|Jan 18 |**Intro 2: Wikipedia, Truth, NPOV and Referencing**<br>Readings: Lanier, Digital Maoism;<br />Garfinkel, Wikipedia and the Meaning of Truth<br/>Assignment **W2** Data Failure Memo released! |
+|Jan 25 |**Intro 3: Computer-Related Disasters**<br>Readings: Dalcher, “Disaster in London: The LAS case study”; <br />Barry, "Elon Musk, Self-Driving, and the Dangers of Wishful Thinking."<br/>*Continue working on your Data Failure Memo*     |
+|Feb  1 |**Intro 4: The Gender Data Gap**<br>Readings: Perez, "Invisible Women" (Introduction: The Default Male; Chapter 7: The Plough Hypothesis; Chapter 10: The Drugs Don't Work) <br>Assignment **W2** Data Failure Memo due|
+|Feb  8 |**Surveillance 1: Wiretapping, Encryption, and the Crypto Wars 1&2**<br>Readings: Abelson 2015, Diffie and Landau 2007, Nakashima and Albergotti 2021 |
+|Feb 15 |**Surveillance 2: Data and Transactional Surveillance**<br>Readings:  Landau 2020 |
+|Feb 22 |**Surveillance 3: Physical Surveillance and Face Recognition**<br>Readings: Hill and Krolik 2019, Fussell 2020  |
+|Mar  1 |**Privacy 1: Fair Information Practice**<br/>Readings: Solove 2006, Garfinkel and Theofanos 2018<br/>Optional Reading: Nissenbaum 2004 |
+|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: Angwin 2016 <br/>Watch: Kantayya 2021, "Coded Bias"<br/>Assignment D1 Building a Biased Machine Learning System due|
 |Mar 15 |*SPRING BREAK! 🌾🌱🌷* |
-|Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings: <br>Assignment D2 Differential Privacy Due |
-|Apr  5 |**Privacy 4: Human Experimentation**<br>Readings:|
-|Apr 12 |**Privacy 5: Biometrics** |
-|Apr 19 |**Presentation of Wikipedia Projects** |
+|Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings:  Tao 2021**TODO**<br>Assignment D2 Differential Privacy Due |
+|Apr  5 |**Privacy 4: Human Experimentation**<br>Readings: Belmont Report, Menlo Report, Bond 2012, Lind 2014<br/>Watch: [Voices of the Civil Rights Movement: The Tuskegee Syphilis Experiment](https://voicesofthecivilrightsmovement.com/video-collection/2015/12/04/the-tuskegee-syphilis-experiment ) and [Newsy: The unknowns about the Tuskegee syphilis study](https://www.youtube.com/watch?v=J3tQ93fQf8U )|
+|Apr 12 |**Privacy 5: Biometrics**<br/>Readings: **TODO** |
+|Apr 19 |**Presentation of Wikipedia Projects**<br/>Assignment **W1** due! |
 
 
 # Assignments and Grading
@@ -94,7 +88,7 @@ No extension is offered on the Wikipedia assignment.
 
 |Assignment<br>(due)|Description|Total Points|
 |----------|-----------|------------|
-|W1: The Wikipedia Assignment<br>_april 19_| Each student will create or improve an article on Wikipedia that presents a topic raised in this course. This assignment will use the Wikimedia Foundation s online educational tools. Each student will need to identify an on-topic Wikipedia article to create or improve, identify sources, make modifications, and make a presentation on their topic.<br> Sign up at https://bit.ly/DATS_6450_Spring_2022 <br>| 20|
+|W1: The Wikipedia Assignment<br>_april 19_| Each student will create or improve an article on Wikipedia that presents a topic raised in this course. This assignment will use the Wikimedia Foundation s online educational tools. Each student will need to identify an on-topic Wikipedia article to create or improve, identify sources, make modifications, and make a presentation on their topic.<br>Sign up at https://bit.ly/DATS_6450_Spring_2022 <br> | 20|
 |W2: Data-Failure Memo<br>_feb 1_| Write a 1200-word memo analyzing a data-related failure with a significant ethical issue and discuss approaches for preventing similar problems. |10|
 |P1: Journal Club<br>_jan 18-apr 5_| Pick a paper from a recent [ACM FAcct](4) or the [AIES](5) conferences and present it.|10|
 |P2: Presenting your memo<br>_mar 1 - apr 12_|Presentation of the a graph, map, or other visual aid from the failure memo.|5|
@@ -111,11 +105,29 @@ No extension is offered on the Wikipedia assignment.
 
 
 
-## Readings
+### Required textbooks and/or other materials and recommended readings
 
-| Author                                          | Title                                                        | Year |
-| ----------------------------------------------- | ------------------------------------------------------------ | ---- |
-| <a name='garfinkel2008'>Garfinkel, Simson  </a> | Wikipedia and the Meaning of Truth  https://www.technologyreview.com/s/411041/wikipedia-and-the-meaning-of-truth/ | 2008 |
+| Author                   | Title                                                        | Year |
+| ------------------------ | ------------------------------------------------------------ | ---- |
+| Abelsonn Hal, et al      | [Keys under doormats: mandating insecurity by requiring government access to all data and communications](https://academic.oup.com/cybersecurity/article/1/1/69/2367066) *Journal of Cybersecurity*, Volume 1, Issue 1, September 2015 | 2015 |
+| Angwin et al             | [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica, May 23, 2016.<br/>[Breaking the Black Box](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you) "Episode 1" through "Episode 4" | 2016 |
+| “Belmont Report”         | The Belmont Report   Office of the Secretary   Ethical Principles and Guidelines for the Protection of Human Subjects  Research   The National Commission for the Protection of Human Subjects of Biomedical  and Behavioral Research   April 18, 1979 | 1979 |
+| Bond et al               | [A 61-million-person experiment in social influence and political mobilization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/), Nature, Sept. 13, 2012 489(7415) | 2012 |
+| Diffie and Landau        | [The politics of wiretapping and encyrption](https://www.computerworld.com/article/2541614/the-politics-of-wiretapping-and-encryption.html) (Book Excerpt: Privacy on the Line), Computerworld, Jun 7, 2007 | 2007 |
+| Fussell                  | [An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/), *Wired*, June 24, 2020 | 2020 |
+| Garfinkel                | [Wikipedia and the Meaning of Truth](https://www.technologyreview.com/s/411041/wikipedia-and-the-meaning-of-truth/), *MIT Technology Review*, October 20, 2008 | 2008 |
+| Garfinkel and Theofanos  | [Non-Breach Privacy Events](https://techscience.org/a/2018100903), *Technology Science*, October 08, 2018. | 2018 |
+| Landau                   | [Categorizing Uses of Communications Metadata: Systematizing Knowledge and Presenting a Path for Privacy](https://dl.acm.org/doi/pdf/10.1145/3442167.3442171), NSPW ’20, October 26–29, 2020 | 2020 |
+| Lanier                   | [Digital Maoism: The Hazards of the New Online  Collectivism](https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism  ), *Edge*, May 29, 2006. | 2006 |
+| Lind                     | [Facebook’s “I Voted” sticker was a secret experiment on its users](https://www.vox.com/2014/11/4/7154641/midterm-elections-2014-voted-facebook-friends-vote-polls), Vox, Nov 4, 2014 | 2014 |
+| Hill and Krolik          | [How Photos of Your Kids Are Powering Surveillance Technology](https://www.nytimes.com/interactive/2019/10/11/technology/flickr-facial-recognition.html) , *New York Times*, October 11, 2019 | 2019 |
+| Kantayya                 | ["Coded Bias"](https://www.pbs.org/independentlens/documentaries/coded-bias/), March 22, 2021 (also available on [Netflix](https://www.netflix.com/title/81328723)) | 2021 |
+| “Menlo Report”           | The Menlo Report:   Ethical Principles Guiding Information and Communication Technology Research   US Department of Homeland Security   August 2012 | 2012 |
+| Nakashima and Albergotti | [The FBI wanted to unlock the San Bernardino shooter’s  iPhone. It turned to a little-known Australian firm](https://www.washingtonpost.com/technology/2021/04/14/azimuth-san-bernardino-apple-iphone-fbi/), Washington Post, April 4, 2021. | 2021 |
+| Nissenbaum               | Privacy as Contextual Integrity                              | 2004 |
+| Perez                    | *Invisible Women: Data Bias in a World Designed for Men*, Abrams Press | 2019 |
+| Solov                    | [A Taxonomy of Privacy](https://www.jstor.org/stable/40041279), University of Pennsylvania Law Review, January 2006 | 2006 |
+| Tao et al                | [Benchmarking Differentially Private Synthetic Data Generation Algorithms](https://arxiv.org/abs/2112.09238), Yuchao Tao, Ryan McKenna, Michael Hay, Ashwin Machanavajjhala, Gerome Miklau | 2021 |
 
 
 
