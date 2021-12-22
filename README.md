@@ -65,9 +65,9 @@ Students should budget at least 30 minutes for participation on the blackboard w
 |Mar  1 |**Privacy 1: Fair Information Practice**<br/>Readings: Solove 2006, Garfinkel and Theofanos 2018<br/>Optional Reading: Nissenbaum 2004 |
 |Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: Angwin 2016 <br/>Watch: Kantayya 2021, "Coded Bias"<br/>Assignment D1 Building a Biased Machine Learning System due|
 |Mar 15 |*SPRING BREAK! 🌾🌱🌷* |
-|Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings:  Tao 2021**TODO**<br>Assignment D2 Differential Privacy Due |
+|Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings:  Thaine 2021, Nissim 2017, Tao 2021<br>Reading choice: Either read [HHS HIPAA Privacy Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) or watch Microsoft's [De-Identifying Healthcare Data for Research](https://www.youtube.com/watch?v=h-VhEVlC3h0) <br/>Assignment D2 Differential Privacy Due |
 |Apr  5 |**Privacy 4: Human Experimentation**<br>Readings: Belmont Report, Menlo Report, Bond 2012, Lind 2014<br/>Watch: [Voices of the Civil Rights Movement: The Tuskegee Syphilis Experiment](https://voicesofthecivilrightsmovement.com/video-collection/2015/12/04/the-tuskegee-syphilis-experiment ) and [Newsy: The unknowns about the Tuskegee syphilis study](https://www.youtube.com/watch?v=J3tQ93fQf8U )|
-|Apr 12 |**Privacy 5: Biometrics**<br/>Readings: **TODO** |
+|Apr 12 |**Privacy 5: Biometrics**<br/>Watch: Murgia 2019, Canada 2018<br/>Readings: Marsico 2019 |
 |Apr 19 |**Presentation of Wikipedia Projects**<br/>Assignment **W1** due! |
 
 
@@ -113,7 +113,9 @@ No extension is offered on the Wikipedia assignment.
 | Angwin et al             | [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing), ProPublica, May 23, 2016.<br/>[Breaking the Black Box](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you) "Episode 1" through "Episode 4" | 2016 |
 | “Belmont Report”         | The Belmont Report   Office of the Secretary   Ethical Principles and Guidelines for the Protection of Human Subjects  Research   The National Commission for the Protection of Human Subjects of Biomedical  and Behavioral Research   April 18, 1979 | 1979 |
 | Bond et al               | [A 61-million-person experiment in social influence and political mobilization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/), Nature, Sept. 13, 2012 489(7415) | 2012 |
+| Canada                   | [A step-by-step look at Biometrics](https://www.youtube.com/watch?v=4BIUZR_Hh30), Citizenship and Immigration Canada, Jul 3, 2018 | 2018 |
 | Diffie and Landau        | [The politics of wiretapping and encyrption](https://www.computerworld.com/article/2541614/the-politics-of-wiretapping-and-encryption.html) (Book Excerpt: Privacy on the Line), Computerworld, Jun 7, 2007 | 2007 |
+| FPF                      | [A Visual Guide to Practical Data De-Identification](https://fpf.org/wp-content/uploads/2016/04/FPF_Visual-Guide-to-Practical-Data-DeID.pdf) | 2016 |
 | Fussell                  | [An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/), *Wired*, June 24, 2020 | 2020 |
 | Garfinkel                | [Wikipedia and the Meaning of Truth](https://www.technologyreview.com/s/411041/wikipedia-and-the-meaning-of-truth/), *MIT Technology Review*, October 20, 2008 | 2008 |
 | Garfinkel and Theofanos  | [Non-Breach Privacy Events](https://techscience.org/a/2018100903), *Technology Science*, October 08, 2018. | 2018 |
@@ -122,12 +124,16 @@ No extension is offered on the Wikipedia assignment.
 | Lind                     | [Facebook’s “I Voted” sticker was a secret experiment on its users](https://www.vox.com/2014/11/4/7154641/midterm-elections-2014-voted-facebook-friends-vote-polls), Vox, Nov 4, 2014 | 2014 |
 | Hill and Krolik          | [How Photos of Your Kids Are Powering Surveillance Technology](https://www.nytimes.com/interactive/2019/10/11/technology/flickr-facial-recognition.html) , *New York Times*, October 11, 2019 | 2019 |
 | Kantayya                 | ["Coded Bias"](https://www.pbs.org/independentlens/documentaries/coded-bias/), March 22, 2021 (also available on [Netflix](https://www.netflix.com/title/81328723)) | 2021 |
-| “Menlo Report”           | The Menlo Report:   Ethical Principles Guiding Information and Communication Technology Research   US Department of Homeland Security   August 2012 | 2012 |
+| Marsico                  | [A Survey on Gait Recognition via Wearable Sensors](https://dl.acm.org/doi/10.1145/3340293), ACM Computing Surveys | 2019 |
+| “Menlo Report”           | [The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research](https://www.dhs.gov/sites/default/files/publications/CSD-MenloPrinciplesCORE-20120803_1.pdf), US Department of Homeland Security, August 2012 | 2012 |
+| Murgia                   | [The business of biometrics](https://www.youtube.com/watch?v=w2l8HIhDy_s), TEDxGateway, May 13, 2019 | 2019 |
 | Nakashima and Albergotti | [The FBI wanted to unlock the San Bernardino shooter’s  iPhone. It turned to a little-known Australian firm](https://www.washingtonpost.com/technology/2021/04/14/azimuth-san-bernardino-apple-iphone-fbi/), Washington Post, April 4, 2021. | 2021 |
-| Nissenbaum               | Privacy as Contextual Integrity                              | 2004 |
+| Nissenbaum               | [Privacy as Contextual Integrity](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf) | 2004 |
+| Nissim et al             | [Differential Privacy: A Primer for a non-technical audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_0.pdf) | 2017 |
 | Perez                    | *Invisible Women: Data Bias in a World Designed for Men*, Abrams Press | 2019 |
 | Solov                    | [A Taxonomy of Privacy](https://www.jstor.org/stable/40041279), University of Pennsylvania Law Review, January 2006 | 2006 |
 | Tao et al                | [Benchmarking Differentially Private Synthetic Data Generation Algorithms](https://arxiv.org/abs/2112.09238), Yuchao Tao, Ryan McKenna, Michael Hay, Ashwin Machanavajjhala, Gerome Miklau | 2021 |
+| Thaine                   | [Demystifying De-Identificaiton](https://towardsdatascience.com/demystifying-de-identification-f89c977a1be5) | 2021 |
 
 
 
