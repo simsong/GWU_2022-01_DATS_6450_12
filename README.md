@@ -90,7 +90,7 @@ No extension is offered on the Wikipedia assignment.
 |----------|-----------|------------|
 |W1: The Wikipedia Assignment<br>_april 19_| Each student will create or improve an article on Wikipedia that presents a topic raised in this course. This assignment will use the Wikimedia Foundation s online educational tools. Each student will need to identify an on-topic Wikipedia article to create or improve, identify sources, make modifications, and make a presentation on their topic.<br>Sign up at https://bit.ly/DATS_6450_Spring_2022 <br> | 20|
 |W2: Data-Failure Memo<br>_feb 1_| Write a 1200-word memo analyzing a data-related failure with a significant ethical issue and discuss approaches for preventing similar problems. |10|
-|P1: Journal Club<br>_jan 18-apr 5_| Pick a paper from a recent [ACM FAcct](4) or the [AIES](5) conferences and present it.|10|
+|P1: Journal Club<br>_jan 18-apr 5_| Pick a paper from [MIT Case Studies in Social and Ethical Responsibilities of Computing](4) or a recent [ACM FAcct](5) or the [AIES](6) conferences and present it.|10|
 |P2: Presenting your memo<br>_mar 1 - apr 12_|Presentation of the a graph, map, or other visual aid from the failure memo.|5|
 |P3: Presentation of Wikipedia Assignment<br>_apr 19_|Present your semester-long wikipedia assignment|5|
 |D1: Building a biased model<br>*mar 8*|Natural language programming |10|
@@ -100,8 +100,9 @@ No extension is offered on the Wikipedia assignment.
 |O1: Online participation| Jan 11-March 12|5|
 |O2: Online participation| March 13-April 20|5|
 
-[4] https://facctconference.org/
-[5] https://www.aies-conference.com/
+[4] https://mit-serc.pubpub.org/
+[5] https://facctconference.org/
+[6] https://www.aies-conference.com/
 
 
 
