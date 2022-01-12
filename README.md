@@ -1,6 +1,6 @@
 _Course and contact information_:
 
-| ![](gwu_letterhead.png) | DATS 6450 Ethics for Data Science   <br />GELM B04 • Tue 3:30 PM – 6:00 PM<br /> Jan 11 — April 19, 2022 |
+| ![](gwu_letterhead.png) | DATS 6450 Ethics for Data Science   <br />COR 103 • Tue 3:30 PM – 6:00 PM<br /> Jan 11 — April 19, 2022 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 | _Instructor:_ |	[Simson L. Garfinkel](3)    |
@@ -55,7 +55,7 @@ Students should budget at least 30 minutes for participation on the blackboard w
 
 |Date|Agenda|
 |-------|-----------|
-|Jan 11 |**Intro 1: Course introduction**<br />Assignment **W1** Released!|
+|Jan 11 |**Intro 1: Course introduction**<br />Online Class with Zoom<br />Assignment **W1** Released!|
 |Jan 18 |**Intro 2: Wikipedia, Truth, NPOV and Referencing**<br>Readings: Lanier, Digital Maoism;<br />Garfinkel, Wikipedia and the Meaning of Truth<br/>Assignment **W2** Data Failure Memo released! |
 |Jan 25 |**Intro 3: Computer-Related Disasters**<br>Readings: Dalcher, “Disaster in London: The LAS case study”; <br />Barry, "Elon Musk, Self-Driving, and the Dangers of Wishful Thinking."<br/>*Continue working on your Data Failure Memo*     |
 |Feb  1 |**Intro 4: The Gender Data Gap**<br>Readings: Perez, "Invisible Women" (Introduction: The Default Male; Chapter 7: The Plough Hypothesis; Chapter 10: The Drugs Don't Work) <br>Assignment **W2** Data Failure Memo due|
