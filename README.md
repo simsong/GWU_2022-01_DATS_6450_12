@@ -55,20 +55,22 @@ Students should budget at least 30 minutes for participation on the blackboard w
 
 |Date|Agenda|
 |-------|-----------|
-|Jan 11 |**Intro 1: Course introduction**<br />Assignment **W1** Released!|
-|Jan 18 |**Intro 2: Wikipedia, Truth, NPOV and Referencing**<br>Readings: Lanier, Digital Maoism;<br />Garfinkel, Wikipedia and the Meaning of Truth<br/>Assignment **W2** Data Failure Memo released! |
+|Jan 11 |**Intro 1: Course introduction**<br />**Wikipedia Assignment (W1)** Released!|
+|Jan 18 |**Intro 2: Wikipedia, Truth, NPOV and Referencing**<br>Readings: Lanier, Digital Maoism;<br />Garfinkel, Wikipedia and the Meaning of Truth<br/>**Assignment W2** Data Failure Memo released! |
 |Jan 25 |**Intro 3: Computer-Related Disasters**<br>Readings: Dalcher, “Disaster in London: The LAS case study”; <br />Barry, "Elon Musk, Self-Driving, and the Dangers of Wishful Thinking."<br/>*Continue working on your Data Failure Memo*     |
-|Feb  1 |**Intro 4: The Gender Data Gap**<br>Readings: Perez, "Invisible Women" (Introduction: The Default Male; Chapter 7: The Plough Hypothesis; Chapter 10: The Drugs Don't Work) <br>Assignment **W2** Data Failure Memo due|
+|Feb  1 |**Intro 4: The Gender Data Gap**<br>Readings: Perez, "Invisible Women" (Introduction: The Default Male; Chapter 7: The Plough Hypothesis; Chapter 10: The Drugs Don't Work) <br>**Assignment** **W2** Data Failure Memo due|
 |Feb  8 |**Surveillance 1: Wiretapping, Encryption, and the Crypto Wars 1&2**<br>Readings: Abelson 2015, Diffie and Landau 2007, Nakashima and Albergotti 2021 |
 |Feb 15 |**Surveillance 2: Data and Transactional Surveillance**<br>Readings:  Landau 2020 |
-|Feb 22 |**Surveillance 3: Physical Surveillance and Face Recognition**<br>Readings: Hill and Krolik 2019, Fussell 2020  |
+|Feb 22 |**Surveillance 3: Physical Surveillance and Face Recognition**<br>Readings: Hill and Krolik 2019, Fussell 2020<br />**Wikipedia Assignment:** Peer review two articles  |
 |Mar  1 |**Privacy 1: Fair Information Practice**<br/>Readings: Solove 2006, Garfinkel and Theofanos 2018<br/>Optional Reading: Nissenbaum 2004 |
-|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: Angwin 2016 <br/>Watch: Kantayya 2021, "Coded Bias"<br/>Assignment D1 Building a Biased Machine Learning System due|
-|Mar 15 |*SPRING BREAK! 🌾🌱🌷* |
+|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: Angwin 2016 <br/>Watch: Kantayya 2021, "Coded Bias"<br/>**Assignment D1** Building a Biased Machine Learning System due<br />**Wikipedia Assignment:** Begin moving your work to Wikipedia|
+|Mar 15 |*SPRING BREAK! 🌾🌱🌷*<br />(Professor Garfinkel gives feedback on wikipedia articles) |
 |Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings:  Thaine 2021, Nissim 2017, Tao 2021<br>Reading choice: Either read [HHS HIPAA Privacy Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) or watch Microsoft's [De-Identifying Healthcare Data for Research](https://www.youtube.com/watch?v=h-VhEVlC3h0) <br/>Assignment D2 Differential Privacy Due |
-|Apr  5 |**Privacy 4: Human Experimentation**<br>Readings: Belmont Report, Menlo Report, Bond 2012, Lind 2014<br/>Watch: [Voices of the Civil Rights Movement: The Tuskegee Syphilis Experiment](https://voicesofthecivilrightsmovement.com/video-collection/2015/12/04/the-tuskegee-syphilis-experiment ) and [Newsy: The unknowns about the Tuskegee syphilis study](https://www.youtube.com/watch?v=J3tQ93fQf8U )|
-|Apr 12 |**Privacy 5: Biometrics**<br/>Watch: Murgia 2019, Canada 2018<br/>Readings: Marsico 2019 |
+|Mar 29 |**Privacy 4: Human Experimentation**<br/>Readings: Belmont Report, Menlo Report, Bond 2012, Lind 2014<br/>Watch: [Voices of the Civil Rights Movement: The Tuskegee Syphilis Experiment](https://voicesofthecivilrightsmovement.com/video-collection/2015/12/04/the-tuskegee-syphilis-experiment ) and [Newsy: The unknowns about the Tuskegee syphilis study](https://www.youtube.com/watch?v=J3tQ93fQf8U ) |
+|Apr  5 |**Privacy 5: Biometrics**<br/>Watch: Murgia 2019, Canada 2018<br/>Readings: Marsico 2019|
+|Apr 12 |*Special Topic TBD* |
 |Apr 19 |**Presentation of Wikipedia Projects**<br/>Assignment **W1** due! |
+|Apr 26 |"Make-Up Day" |
 
 
 # Assignments and Grading
