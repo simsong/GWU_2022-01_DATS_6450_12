@@ -1,0 +1,42 @@
+|Date|Agenda|
+|-------|-----------|
+|Feb 15 |**Surveillance 2: Data and Transactional Surveillance**<br>Readings:  Landau 2020 |
+
+# Administrivia
+## WikiEdu:
+* Everybody is now signed up for WikiEdu.
+* We are now in [Week 6](https://dashboard.wikiedu.org/courses/George_Washington_University/DATS_6450_-_Ethics_for_Data_Science_(Spring_Semester_2022)/timeline#week-6)
+  * Everyone should have a topic by now. One student has signed up for a topic, one student has signed up for two. (?) *Everyone should choose a topic!*
+  * This week you should complete the **Plagiarism** and **Drafting in the sandbox** exercises.
+  * Assignment C0 - Wikipedia Participation. Three students who had completed 4 exercises and 7 trainings received full credit (2 points)
+  * Students who completed 2 exercises and 5 trainings received 1 point of credit.
+  * Please sign up for an article by the end of this week. If you cannot choose one, try a [stub](https://en.wikipedia.org/wiki/Category:Stubs) or an [article in need of updating](https://en.wikipedia.org/wiki/Category:All_Wikipedia_articles_in_need_of_updating) or someone from the [Women in Red WikiProject](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red).
+
+# [Journal Club](https://docs.google.com/spreadsheets/d/1i_ynYOWUPz0v_RICUTWsFoJnEvOYvmVwmvfUs8O9toU/edit#gid=0)
+* Three students need to sign up for articles that they are presenting.
+* Reminder: The MIT case studies are hard; it's much easier to present a paper from a conference.
+* Presentation 1: [Rakshith Reddy Eleti](https://docs.google.com/presentation/d/1XYNglt_SAQzt6LmPzG4eOpJRykjbmCTWLmfszCpJt8E/edit?usp=sharing)
+* Presentation 2: [Jenny Fisher](https://docs.google.com/presentation/d/1Bk4pjDPiSZZrGyuzP0ZtEtq0qhoT07RIAsJeofmreC0/edit#slide=id.p)
+
+# Surveillance 2: Metadata and Transactional Surveillance
+* [Categorizing Uses of Communications Metadata: Systematizing Knowledge and Presenting a Path for Privacy](https://dl.acm.org/doi/pdf/10.1145/3442167.3442171), NSPW ’20, October 26–29, 2020
+  * [New Security Paradigms Workshop](https://www.nspw.org/)
+* This is a Systematization of Knowledge (SOK).
+  * [Search for SOK's on ACM Digital Library](https://dl.acm.org/action/doSearch?AllField=SOK)
+  * [Search for SOK's on IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SOK)
+    * [SoK: Fully Homomorphic Encryption Compilers](https://ieeexplore.ieee.org/document/9519484)
+    * [SoK: General Purpose Compilers for Secure Multi-Party Computation](https://ieeexplore.ieee.org/document/8835312)
+    * [SoK: In Search of Lost Time: A Review of JavaScript Timers in Browsers](https://ieeexplore.ieee.org/document/9581218)
+* Part 1: Intro
+  * Who is Edward Snowden?
+  * What is the NSA?
+  * What is a CDR?
+    * https://en.wikipedia.org/wiki/Call_detail_record
+    * https://www.sciencedirect.com/topics/computer-science/call-detail-record
+    * https://www.onsip.com/voip-resources/voip-fundamentals/what-are-call-detail-records-cdrs
+  * What is IP?
+    * [IPv4 Header](https://en.wikipedia.org/wiki/IPv4#Header)
+    * [IPv6 Header](https://en.wikipedia.org/wiki/IPv6#Header)
+    * [TCP Header](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+  * [Zeek Network Monitoring System](https://docs.zeek.org/en/master/index.html)   [Wikipedia Page](https://en.wikipedia.org/wiki/Zeek)
+    * [SMTP Logs](https://docs.zeek.org/en/master/logs/smtp.html)
