@@ -95,7 +95,7 @@ No extension is offered on the Wikipedia assignment.
 |P1: Journal Club<br>_jan 18-apr 5_| Pick a paper from [MIT Case Studies in Social and Ethical Responsibilities of Computing](4) or a recent [ACM FAcct](5) or the [AIES](6) conferences and present it.|10|
 |P2: Presenting your memo<br>_mar 1 - apr 12_|Presentation of the a graph, map, or other visual aid from the failure memo.|5|
 |P3: Presentation of Wikipedia Assignment<br>_apr 19_|Present your semester-long wikipedia assignment|5|
-|D1: Building a biased model<br>*mar 8*|Natural language programming |10|
+|D1: Building a biased model<br>*mar 14*|Natural language programming |10|
 |D2: Differential privacy<br>*mar 22*|Working with the Jupyter notebook|10|
 |C1: In-class participation| Jan 11-March 12|10|
 |C2: In-class participation| March 13-April 20|10|
