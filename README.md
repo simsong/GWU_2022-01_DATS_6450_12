@@ -16,7 +16,7 @@ _Course and contact information_:
 
 
 ## COURSE DESCRIPTION
-Ethical issues are increasingly at center of developing, deploying and using data science. Efforts to supplement human with artificial intelligence create systems that can impact the wellbeing, happiness, and even the lives of human beings without oversight or failsafe controls. Such systems need more than precision and accuracy: they need to reflect the ethical principles of the world in which we wish to live.
+Ethical issues are increasingly at the center of developing, deploying and using data science. Efforts to supplement human with artificial intelligence create systems that can impact the wellbeing, happiness, and even the lives of human beings without oversight or failsafe controls. Such systems need more than precision and accuracy: they need to reflect the ethical principles of the world in which we wish to live.
 
 This course introduces a range of ethical topics that are relevant to today s data scientists, starting with a brief introduction to ethical systems, intellectual property and wicked problems. Next, the course analyzes topical ethical problems that have resulted through the deployment of data science and information technology. Finally, the course explores approaches that have been put forth to solve these problems.
 Classes are mostly discussions employing the case study method. Labs explore key issues in at the intersection of data science and ethics. Students enrolling in this class should have a working knowledge of Python and machine learning.
@@ -144,13 +144,13 @@ No extension is offered on the Wikipedia assignment.
 
 
 ## Referencing
-Unless specifically noted otherwise, all studnet papers should be written in an academic neutral point of view style, similar to the way that a wikipedia article is written.
+Unless specifically noted otherwise, all student papers should be written in an academic neutral point of view style, similar to the way that a Wikipedia article is written.
 
 1. Use a consistent reference style. If possible, please use the [ACM IN-TEXT CITATION STYLE](https://www.acm.org/publications/authors/reference-formatting), although other citation styles such as [IEEE](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf), or [Harvard](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) are accepted. Students are encouraged to prepare their papers using LaTeX (for example, using Overleaf.com) to achieve a consistent reference style. Other reference options include [Zotero](https://zotero.org) and [ZoteroBib](https://zbib.org).  **A single URL is not an acceptable reference under any circumstances.**
 
 2. References must contain sufficient information to find them. Ideally, references should include a clickable URL. If your URL breaks across multiple lines, make sure that it still works!
 
-3. References must be from respectable academic or journalistic sources unless there is a compelling reason to use other sources. For exmaple, if you are writing about government propaganda in another country, it would be appropriate to cite the source of the propaganda. If you are writing about the World Bank, it would be appropriate to use an internal World Bank Report.
+3. References must be from respectable academic or journalistic sources unless there is a compelling reason to use other sources. For example, if you are writing about government propaganda in another country, it would be appropriate to cite the source of the propaganda. If you are writing about the World Bank, it would be appropriate to use an internal World Bank Report.
 
 4. Do not simply provide a list of references at the end of your paper. Instead, each fact that is not in general knowledge should be referenced to indicate its source. When in doubt, reference.
 
