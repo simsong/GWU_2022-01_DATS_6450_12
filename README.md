@@ -146,7 +146,7 @@ No extension is offered on the Wikipedia assignment.
 ## Referencing
 Unless specifically noted otherwise, all studnet papers should be written in an academic neutral point of view style, similar to the way that a wikipedia article is written.
 
-1. Use a consistent reference style. If possible, please use the [ACM IN-TEXT CITATION STYLE](https://www.acm.org/publications/authors/reference-formatting), although other citation styles such as [IEEE](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf), or [Harvard](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) are accepted. Students are encouraged to prepare their papers using LaTeX (for example, using Overleaf.com) to achieve a consistent reference style. Other reference options include [Zotero](https://zotero.org) and [ZoteroBib](https://zbib.org).
+1. Use a consistent reference style. If possible, please use the [ACM IN-TEXT CITATION STYLE](https://www.acm.org/publications/authors/reference-formatting), although other citation styles such as [IEEE](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf), or [Harvard](https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf) are accepted. Students are encouraged to prepare their papers using LaTeX (for example, using Overleaf.com) to achieve a consistent reference style. Other reference options include [Zotero](https://zotero.org) and [ZoteroBib](https://zbib.org).  **A single URL is not an acceptable reference under any circumstances.**
 
 2. References must contain sufficient information to find them. Ideally, references should include a clickable URL. If your URL breaks across multiple lines, make sure that it still works!
 
