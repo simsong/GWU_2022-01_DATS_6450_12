@@ -63,7 +63,8 @@ Students should budget at least 30 minutes for participation on the blackboard w
 |Feb 15 |**Surveillance 2: Data and Transactional Surveillance**<br>Readings:  Landau 2020 |
 |Feb 22 |**Surveillance 3: Physical Surveillance and Face Recognition**<br>Readings: Hill and Krolik 2019, Fussell 2020<br />**Wikipedia Assignment:** Peer review two articles  |
 |Mar  1 |**Privacy 1: Fair Information Practice**<br/>Readings: Solove 2006, Garfinkel and Theofanos 2018<br/>Optional Reading: Nissenbaum 2004 |
-|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: Angwin 2016 <br/>Watch: Kantayya 2021, "Coded Bias"<br/>**Assignment D1** Building a Biased Machine Learning System due<br />**Wikipedia Assignment:** Begin moving your work to Wikipedia|
+|Mar  8 |**Privacy 2: Bias and Machine Learning**<br>Readings: Angwin 2016 <br/>Watch: Kantayya 2021, "Coded Bias"<br/>**Wikipedia Assignment:** Begin moving your work to Wikipedia|
+|Mar 14 |**Assignment D1** Building a Biased Machine Learning System due|
 |Mar 15 |*SPRING BREAK! 🌾🌱🌷*<br />(Professor Garfinkel gives feedback on wikipedia articles) |
 |Mar 22 |**Privacy 3: De-Identification and Differential Privacy**<br>Readings:  Thaine 2021, Nissim 2017, Tao 2021<br>Reading choice: Either read [HHS HIPAA Privacy Guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) or watch Microsoft's [De-Identifying Healthcare Data for Research](https://www.youtube.com/watch?v=h-VhEVlC3h0) <br/>Assignment D2 Differential Privacy Due |
 |Mar 29 |**Privacy 4: Human Experimentation**<br/>Readings: Belmont Report, Menlo Report, Bond 2012, Lind 2014<br/>Watch: [Voices of the Civil Rights Movement: The Tuskegee Syphilis Experiment](https://voicesofthecivilrightsmovement.com/video-collection/2015/12/04/the-tuskegee-syphilis-experiment ) and [Newsy: The unknowns about the Tuskegee syphilis study](https://www.youtube.com/watch?v=J3tQ93fQf8U ) |
