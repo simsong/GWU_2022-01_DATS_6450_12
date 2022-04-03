@@ -1,0 +1,146 @@
+
+Author
+Title
+Edition
+Abelson et al.
+Keys Under Doormats: Mandating insecurity by requiring government access to all data and communications.
+Full report: https://dspace.mit.edu/handle/1721.1/97690
+CACM article: https://dl.acm.org/citation.cfm?id=2814825
+2015
+ACM
+Code of Ethics and Professional Conduct
+https://www.acm.org/code-of-ethics 
+2018
+Angwin et al
+Machine Bias
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
+2016
+Beecher
+Ethics and Clinical Research
+The New England Journal of Medicine
+Volume 274, Number 24, June 16, 1966
+1966
+ Belmont Report 
+The Belmont Report
+Office of the Secretary
+Ethical Principles and Guidelines for the Protection of Human Subjects Research
+The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research
+April 18, 1979
+1979
+Boerman et al
+Online Behavioral Advertising: 
+A Literature Review and Research Agenda
+https://doi.org/10.1080/00913367.2017.1339368 
+2017
+Dalcher
+Disaster in London. The LAS case study
+https://ieeexplore.ieee.org/document/755860
+1999
+Dwork and Roth
+The Algorithmic Foundations of Differential Privacy
+https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf 
+2014
+Frick, Haviland and Acquisiti
+The Impact of Ad-Blockers on Product Search and Purchase Behavior:A Lab Experiment
+https://www.usenix.org/system/files/sec20fall_frik_prepub.pdf 
+
+Garfinkel et al
+Understanding Database Reconstruction Attacks on Public Data
+https://cacm.acm.org/magazines/2019/3/234925-understanding-database-reconstruction-attacks-on-public-data/fulltext 
+2018
+Garfinkel, Simson
+Wikipedia and the Meaning of Truth
+https://www.technologyreview.com/s/411041/wikipedia-and-the-meaning-of-truth/
+2008
+Garfinkel, Simson
+NISTIR 8053: De-Identification of Personal Information
+https://csrc.nist.gov/publications/detail/nistir/8053/final
+2015
+Hankerson et al.
+Does Technology Have Race?
+https://dl.acm.org/citation.cfm?id=2892578
+2016
+Harrisburg University
+Facial Recognition Software Predicts Criminality, Researchers Say
+https://cacm.acm.org/careers/244713-facial-recognition-software-predicts-criminality-researchers-say/fulltext 
+2020
+Hill and Krolik
+How Photos of Your Kids Are Powering Surveillance Technology
+https://www.nytimes.com/interactive/2019/10/11/technology/flickr-facial-recognition.html 
+2019
+IEEE EAD
+Ethically Aligned Design, 1st Edition
+https://ethicsinaction.ieee.org/
+2019
+Kurosu, James F. 
+and Keith A. Marzullo (Chairs)
+National Privacy Research Strategy 
+2017
+Abelson, Harold, Anderson, Ross
+Bellovin, Steve, Benaloh, Josh, Blaze, Matt, Diffie, Whitfield; Gilmore, John; Green, Matthew; Landau, Susan; Neumann, Peter G.; Rivest, Ronald L.; Schiller, Jeffrey I.; Schneier, Bruce; Specter, Michael; Weitzner, Daniel J.
+Keys Under Doormats: Mandating insecurity by requiring government access to all data and communications.
+Full Report: https://dspace.mit.edu/handle/1721.1/97690
+Opinion in CACM:
+https://dl.acm.org/doi/10.1145/2814825 
+
+Landau, et al
+Codes, Keys and Conflicts: Issues in US Crypto Policy https://www.acm.org/binaries/content/assets/public-policy/1994_usacm_report_crypto.pdf 
+1994
+Langewiesch
+What Really Brought Down the Boeing 737 Max?
+New York Times, September 18, 2019
+Updated Jan 21, 2020
+2019
+Lanier, Jaron
+Digital Maoism: The Hazards of the New Online Collectivism. https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism
+2006
+Laukyte, Migle
+Against Human Exceptionalism
+2019
+Langewiesche, William
+What Really Brought Down the Boegin 737 Max?
+Nerw York Times Magazine, 2019-09-18
+https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html 
+2019
+ Menlo Report 
+The Menlo Report:
+Ethical Principles Guiding Information and Communication Technology Research
+US Department of Homeland Security
+August 2012
+2012
+Nakashima and Albergotti
+The FBI wanted to unlock the San Bernardino shooter s iPhone. It turned to a little-known Australian firm.
+https://www.washingtonpost.com/technology/2021/04/14/azimuth-san-bernardino-apple-iphone-fbi/ 
+2021
+Perez, Caroline Criado
+Invisible Women: Data Bias in a World Designed for Men
+2019
+Pournaghshband, Vahab
+Incorporating the Security Mindset into Introductory Programming Courses
+2011
+Bolukbasi, Chang, Zou, & Saligrama
+Man is to computer programmer as woman is to homemaker? debiasing word embeddings.
+2016
+Rotenberg 
+Prepared testimony and Statement for the Record of Marc Rotenberg, Director, CPSR Washington Office, on Encryption Technology and Policy Before the Subcommittee on Telecommunications and Finance. 
+June 9, 1993
+https://www.epic.org/crypto/clipper/cpsr_markey_testimony_6_9.html 
+1993
+Stern
+Apple s Software Chief Explains  Misunderstood  iPhone Child-Protection Features (Exclusive)
+https://www.wsj.com/video/series/joanna-stern-personal-technology/apples-software-chief-explains-misunderstood-iphone-child-protection-features-exclusive/573D76B3-5ACF-4C87-ACE1-E99CECEFA82C
+2021
+USACM
+Statement on Algorithmic Transparency and Accountability
+2017
+Wolf, Miller, Grodzinsky
+Why we should have seen that coming: comments on Microsoft's tay "experiment," and wider implications
+https://dl.acm.org/doi/abs/10.1145/3144592.3144598 
+2017
+Wicker et al
+Internet Advertising: Technology, Ethics, and a Serious Difference of Opinion
+2017
+Other papers as assigned.
+Week-by-week schedule of topics to be presented and scheduling of final examinations
+Class
+Topic & Assigned Readings
